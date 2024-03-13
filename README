@@ -30,7 +30,7 @@ This project is a ERP (Enterprise Resource Planning) system interface built usin
 ## Installation
 
 1. Clone the repository:
-      git clone <repository-url>
+      git clone <https://github.com/prathameshskatti/erp-react>
 
 2.Setup Node.js and npm:
       Before we run a React application, we need to have Node.js and npm installed on your computer.
